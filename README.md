@@ -22,7 +22,7 @@ pod 'ZZKitSetting'
 
 ## Author
 
-yanan.zhu, yanan.zhu@renren-inc.com
+yanan.zhu, zhuynchn@163.com
 
 ## License
 
