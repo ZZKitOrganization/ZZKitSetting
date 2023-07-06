@@ -1,0 +1,16 @@
+PODS:
+  - ZZKitSetting (0.1.0)
+
+DEPENDENCIES:
+  - ZZKitSetting (from `../`)
+
+EXTERNAL SOURCES:
+  ZZKitSetting:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ZZKitSetting: 09cc16630c27e428c428c17020121721762e5c4c
+
+PODFILE CHECKSUM: 619b23d748e09162313c38ded655a3aadf852fa1
+
+COCOAPODS: 1.10.2

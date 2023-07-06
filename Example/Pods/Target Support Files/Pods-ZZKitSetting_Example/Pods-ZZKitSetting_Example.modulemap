@@ -1,0 +1,6 @@
+framework module Pods_ZZKitSetting_Example {
+  umbrella header "Pods-ZZKitSetting_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,6 @@
+framework module ZZKitSetting {
+  umbrella header "ZZKitSetting-umbrella.h"
+
+  export *
+  module * { export * }
+}

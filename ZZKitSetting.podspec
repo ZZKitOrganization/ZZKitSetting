@@ -21,11 +21,11 @@ Pod::Spec.new do |s|
 TODO: Add long description of the pod here.
                        DESC
 
-  s.homepage         = 'https://github.com/yanan.zhu/ZZKitSetting'
+  s.homepage         = 'https://github.com/ZZKitOrganization/ZZKitSetting'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'yanan.zhu' => 'yanan.zhu@renren-inc.com' }
-  s.source           = { :git => 'https://github.com/yanan.zhu/ZZKitSetting.git', :tag => s.version.to_s }
+  s.author           = { 'yanan.zhu' => 'zhuyn@163.com' }
+  s.source           = { :git => 'https://github.com/ZZKitOrganization/ZZKitSetting.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '10.0'
