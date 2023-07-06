@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '10.0'
+
+target 'ZZKitSetting_Example' do
+  pod 'ZZKitSetting', :path => '../'
+
+  target 'ZZKitSetting_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
